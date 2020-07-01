@@ -1,0 +1,16 @@
+#zakra{
+    background-image: url(img/girl.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    padding-top: 200px;
+}
+h1{
+    color: rgb(194, 52, 52);
+}
+#green{
+    background-color: green;
+}
